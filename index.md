@@ -17,8 +17,8 @@ Ingeniero electrónico enfocado en QA de videojuegos con experiencia en pruebas 
 ### Farmagedon - Indie Level Studios
 Pruebas manuales y reporte de bugs funcionales, visuales y de polish, aportando a la mejora de la experiencia del juego en el juego Farmageddon 
 
-![Captura del proyecto](https://tu-url.com/imagen.jpg)
-https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3922300/53bff41ad17d5df36ba2cf504b3132acf4a1289e/header.jpg?t=1755790358
+![Captura del proyecto](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3922300/53bff41ad17d5df36ba2cf504b3132acf4a1289e/header.jpg?t=1755790358)
+
 [Ver el juego en Steam](https://store.steampowered.com/app/3922300/Farmageddon/)
 
 ### Blood sins
