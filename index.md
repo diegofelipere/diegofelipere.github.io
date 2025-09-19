@@ -16,12 +16,17 @@ Ingeniero electrónico enfocado en QA de videojuegos con experiencia en pruebas 
 
 ### Farmagedon - Indie Level Studios
 Pruebas manuales y reporte de bugs funcionales, visuales y de polish, aportando a la mejora de la experiencia del juego en el juego Farmageddon 
+
+![Captura del proyecto](https://tu-url.com/imagen.jpg)
+https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3922300/53bff41ad17d5df36ba2cf504b3132acf4a1289e/header.jpg?t=1755790358
 [Ver el juego en Steam](https://store.steampowered.com/app/3922300/Farmageddon/)
 
-### Proyecto 2
-Otra descripción.  
-[Ver en GitHub](https://github.com/usuario/proyecto2)
-
+### Blood sins
+Pruebas manuales y reporte de bug a través de click up para el juego Blood Sins.  
+[Ver el juego en Steam](https://github.com/usuario/proyecto2)
+Una breve demo del proyecto:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tu_video_id" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HxpqyQyXKMk?si=NiwokqddN2ThSjWZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Contacto
 
 - Email: diegofelipere@gmail.com
