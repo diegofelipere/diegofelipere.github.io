@@ -1,3 +1,8 @@
+---
+layout: home
+title: Bienvenido a mi portafolio
+---
+
 # diegofelipere.github.io
 # Mi Portafolio
 
