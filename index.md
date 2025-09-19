@@ -24,9 +24,7 @@ Pruebas manuales y reporte de bugs funcionales, visuales y de polish, aportando 
 ### Blood sins
 Pruebas manuales y reporte de bug a través de click up para el juego Blood Sins.  
 [Ver el juego en Steam](https://github.com/usuario/proyecto2)
-Una breve demo del proyecto:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tu_video_id" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HxpqyQyXKMk?si=NiwokqddN2ThSjWZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Ff3atiB02k?si=RrbcX2g5Tfq2qOtR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Contacto
 
 - Email: diegofelipere@gmail.com
