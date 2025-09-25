@@ -1,5 +1,5 @@
-title: Diegofelipere Portafolio
-description: QA Tester
+title: Diegofelipere | Portafolio QA Tester en Videojuegos
+description: Portafolio de proyectos y experiencia en pruebas manuales de videojuegos.
 theme: minima
 markdown: kramdown
 
@@ -7,12 +7,3 @@ markdown: kramdown
 header_pages:
   - about.md
   - proyectos.md
-  
-minima:
-  social_links:
-    - platform: github
-      user_url: https://github.com/diegofelipere
-    - platform: linkedin
-      user_url: https://linkedin.com/in/diegofelipere
-    - platform: email
-      user_url: mailto:diegofelipere@gmail.com
