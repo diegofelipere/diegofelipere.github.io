@@ -2,3 +2,8 @@ title: Mi Portafolio
 description: Desarrollador Web | Proyectos y Contacto
 theme: minima
 markdown: kramdown
+
+# Navegación del header
+header_pages:
+  - about.md
+  - projects.md
