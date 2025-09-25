@@ -3,10 +3,11 @@ layout: home
 title: Bienvenido a mi portafolio
 ---
 
-# diegofelipere.github.io
 # Mi Portafolio
 
 ¡Hola! Soy **Diego**, QA tester de videojuegos.
+
+[Sobre mí](/about/) · [Proyectos](/projects/) · [Contacto](#contacto)
 
 ## Sobre mí
 
