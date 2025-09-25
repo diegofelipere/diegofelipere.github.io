@@ -7,3 +7,6 @@ markdown: kramdown
 header_pages:
   - about.md
   - projects.md
+  
+minima:
+  skin: dark
