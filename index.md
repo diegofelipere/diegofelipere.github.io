@@ -34,7 +34,7 @@ Pruebas funcionales, de rendimiento y usabilidad en **Godot**, **Unity 6** y **U
 ## Destacados recientes
 **Farmageddon — Indie Level Studios**  
 Pruebas manuales centradas en **bugs funcionales/visuales/polish** y calidad de experiencia.  
-Resultados: informes semanales, casos reproducibles y priorización que redujo retrabajo.
+Resultados: informes semanales, casos reproducibles y priorización que redujo retrabajo y mejoro la experiencia del juego.
 
 [Ver en Steam](https://store.steampowered.com/app/3922300/Farmageddon/) · [Captura](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3922300/53bff41ad17d5df36ba2cf504b3132acf4a1289e/header.jpg?t=1755790358)
 
@@ -43,23 +43,28 @@ Pruebas manuales con **seguimiento en ClickUp**, foco en progresión, combate y 
 
 [Ver proyecto](/projects/)
 
-> Más contexto, métricas y videos están en la página de **Proyectos**.
+> Más contexto y videos están en la página de **Proyectos**.
 
 ---
 
-## Proyectos
+## Cómo trabajo
+1. **Kickoff corto**: alcance, plataformas, riesgos y criterios de salida.  
+2. **Plan de prueba vivo**: smoke + escenarios críticos + exploratorias dirigidas.  
+3. **Evidencia clara**: pasos, esperado/actual, severidad, capturas o clips.  
+4. **Ciclo de regresión**: verificación de fixes y chequeo de impacto.  
 
-### Farmagedon - Indie Level Studios
-Pruebas manuales y reporte de bugs funcionales, visuales y de polish, aportando a la mejora de la experiencia del juego en el juego Farmageddon 
+---
 
-![Captura del proyecto](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3922300/53bff41ad17d5df36ba2cf504b3132acf4a1289e/header.jpg?t=1755790358)
+## Test list mínima (de ejemplo)
+- Inicio/juego/carga/guardado
+- Loop central y progresión
+- Controles, cámara, HUD/menús
+- Accesibilidad y UX (texto, contraste, señales)
+- Rendimiento (FPS), bloqueo/softlocks, pérdida de progreso
 
-[Ver el juego en Steam](https://store.steampowered.com/app/3922300/Farmageddon/)
+> La checklist completa y casos detallados están en **Proyectos**.
 
-### Blood sins
-Pruebas manuales y reporte de bug a través de click up para el juego Blood Sins.  
-[Ver el juego en Steam](https://github.com/usuario/proyecto2)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Ff3atiB02k?si=RrbcX2g5Tfq2qOtR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+---
 
 ## Contacto
 - Email: <diegofelipere@gmail.com>  
