@@ -68,7 +68,8 @@ Pruebas manuales con **seguimiento en ClickUp**, foco en progresión, combate y 
 
 ## Contacto
 - Email: <diegofelipere@gmail.com>  
-- GitHub: [@usuario](https://github.com/usuario)  
+- GitHub: [@diegofelipere](https://github.com/diegofelipere)  
 - LinkedIn: [Mi perfil](https://linkedin.com/in/diegofelipere)
+- -Itch.io: [Re-animando Games](https://re-animandogames.itch.io/)
 
 ¿Quieres ver más? → [Sobre mí](/about/) · [Proyectos](/projects/)
