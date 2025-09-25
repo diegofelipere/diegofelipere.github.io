@@ -6,7 +6,7 @@ markdown: kramdown
 # Navegación del header
 header_pages:
   - about.md
-  - projects.md
+  - proyectos.md
   
 minima:
   skin: dark
