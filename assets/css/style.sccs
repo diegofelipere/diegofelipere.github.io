@@ -1,0 +1,9 @@
+---
+---
+
+.justificado {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+@import "minima";
