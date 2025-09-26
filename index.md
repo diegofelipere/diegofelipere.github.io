@@ -21,13 +21,12 @@ Pruebas funcionales, de rendimiento y usabilidad en **Godot**, **Unity 6** y **U
 ## Mis principios de QA
 - **Jugar como jugador** primero, **probar como QA** después.
 - **Reproducible o no cuenta**: pasos, entorno, build, evidencia.
-- **Feedback breve → decisiones rápidas**: severidad, impacto, costo de arreglo.
-- **Cubre lo crítico, luego lo curioso**: smoke, core loop, monetización, accesibilidad.
+- **Feedback breve → decisiones rápidas**: severidad e impacto.
+- **Cubre lo crítico, luego lo curioso**: smoke, core loop, accesibilidad y funcionalidad.
 
 ## Herramientas y stack
 - Motores: **Godot**, **Unity 6**, **Unreal 5**  
-- Flujo: **ClickUp**, Google Sheets/Docs, grabación de video/GIF  
-- Soporte: controladores, teclado/mouse, mapeos y configuraciones
+- Reportes: **ClickUp**, Google Sheets/Docs, grabación de video/GIF  
 
 ---
 
@@ -62,7 +61,7 @@ Pruebas manuales con **seguimiento en ClickUp**, foco en progresión, combate y 
 - Accesibilidad y UX (texto, contraste, señales)
 - Rendimiento (FPS), bloqueo/softlocks, pérdida de progreso
 
-> La checklist completa y casos detallados están en **Proyectos**.
+> ¿Quieres ver más? → [Sobre mí](/about/) · [Proyectos](/projects/)
 
 ---
 
